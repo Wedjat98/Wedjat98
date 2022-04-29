@@ -1,5 +1,13 @@
 # Thank you for coming to watch my github page!
 
-### Still A Noob Coder
+## Languages I Am Familiar With
+C
+Go
+Python
+Ruby
+HTML/CSS
+JavaScript
+Java
+A bit of C++(Arduino)
 
-### Trying to be a great coder. How about to click a star⭐?
+I am also familiar with Linux and networking.
