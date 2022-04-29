@@ -34,8 +34,10 @@ C++(Arduino)
 
 Kotlin(Andriod)
 
+Smali(Andriod reverse technology)
+
 A bit of Verilog
 
-And ready to learn Rust and Swift.
+And ready to learn Rust,Swift and OculusVR development.
 
 *I am also familiar with Linux server development and networking.*
