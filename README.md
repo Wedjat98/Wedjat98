@@ -1,5 +1,7 @@
 # Thank you for coming to watch my github page!
 
+Trying to be an Embedded Hardware,Frontend,Backend,AI and IoT Fullstack Engineer⭐!!!
+
 ## My Main Projects (Present/Past)
 
 **Login-Register application** -A Login-Register application by **[Java MVC Version](https://github.com/Wedjat98/Login-Register-JavaVersion) and [Vue NodeJs Version](https://github.com/Wedjat98/Login-RegisterAPP).**
