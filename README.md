@@ -15,6 +15,8 @@ JavaScript
 
 Java
 
-A bit of C++(Arduino)
+C++(Arduino)
+
+Verilog 
 
 I am also familiar with Linux and networking.
