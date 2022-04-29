@@ -18,22 +18,24 @@ And I have great intrest in Embedded Development. I did some **[Arduino Projects
 
 C
 
-Go
+Go (Golang WebServer)
 
-Python
+Python (PyQt5,PySide2,openCV,Webspider etc)
 
-Ruby
+Ruby (ruby on rails WebServer)
 
-HTML/CSS
+HTML/CSS (HTML5,CSS3)
 
-JavaScript
+JavaScript (Vue2.0,Vue3.0,JQuery.BootStrap,Node.js etc)
 
-Java
+Java (Maven)
 
 C++(Arduino)
 
+Kotlin(Andriod)
+
 A bit of Verilog
 
-And ready to learn Rust
+And ready to learn Rust and Swift.
 
 *I am also familiar with Linux server development and networking.*
