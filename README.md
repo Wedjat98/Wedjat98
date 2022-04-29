@@ -28,7 +28,7 @@ HTML/CSS (HTML5,CSS3)
 
 JavaScript (Vue2.0,Vue3.0,JQuery.BootStrap,Node.js etc)
 
-Java (Maven)
+Java (SpringBoot base on Maven)
 
 C++(Arduino)
 
