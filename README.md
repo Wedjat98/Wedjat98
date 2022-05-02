@@ -46,3 +46,5 @@ A bit of Verilog
 And ready to learn Rust,Swift and OculusVR development.
 
 *I am also familiar with Linux server development and networking.*
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wedjat98)](https://github.com/anuraghazra/github-readme-stats)
+
