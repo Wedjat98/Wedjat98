@@ -2,8 +2,7 @@
 
 <h1 align="center">Thank you for coming to watch my github page!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<h3 align="center">My ![Visitor Count](https://profile-counter.glitch.me/Wedjat98/count.svg) Visitor.</h3>
+My ![Visitor Count](https://profile-counter.glitch.me/Wedjat98/count.svg) Visitor.
 
 **Trying to be an Embedded Hardware,Frontend,Backend,AI and IoT Fullstack Engineer⭐!!!**
 
