@@ -104,8 +104,6 @@ Java (SpringBoot base on Maven)
 
 C++(Arduino)
 
-Kotlin(Andriod)
-
 Smali(Andriod reverse technology)
 
 A bit of Verilog
