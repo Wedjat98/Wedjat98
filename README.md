@@ -57,7 +57,7 @@ And I have great intrest in Embedded Development. I did some **[Arduino Projects
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 
-### Something else
+### 🖍Something else
 
 Smali(Andriod reverse technology)
 
