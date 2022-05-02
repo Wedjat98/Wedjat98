@@ -54,7 +54,7 @@ And I have great intrest in Embedded Development. I did some **[Arduino Projects
 
 ### 💡Prototyping Platforms
 
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)![ESP8266](https://img.shields.io/badge/ESP8266-6CB0DF?style=for-the-badge)![ESP32](https://img.shields.io/badge/ESP32-4B35AAF?style=for-the-badge)
 
 
 ### 🖍Something else
