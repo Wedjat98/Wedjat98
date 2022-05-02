@@ -46,5 +46,6 @@ A bit of Verilog
 And ready to learn Rust,Swift and OculusVR development.
 
 *I am also familiar with Linux server development and networking.*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wedjat98&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
