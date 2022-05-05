@@ -7,7 +7,7 @@
 
 ## My Main Projects (Present/Past)
 
-**Login-Register application** -A Login-Register application by **[Java MVC Version](https://github.com/Wedjat98/Login-Register-JavaVersion) and [Vue NodeJs Version](https://github.com/Wedjat98/Login-RegisterAPP).**
+**Login-Register application** -A Login-Register application by **[Java MVC Version](https://github.com/Wedjat98/Login-Register-JavaVersion) and [Vue NodeJs Version](https://github.com/Wedjat98/Login-RegisterAPP),and a Qt login window design is [here](https://github.com/Wedjat98/loginWindowUI).**
 
 [**TodoList application**](https://github.com/Wedjat98/ToDoListAPP) -A TodoList application base on PyQt5 and Flask.
 
