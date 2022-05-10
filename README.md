@@ -15,7 +15,7 @@
 
 [**SimpleHexCalculator**](https://github.com/Wedjat98/SimpleHexCalculator)-An Android simple hex calculate.It can resolve the base calculator and support to convert the result to decimal or binary.Release [here](https://github.com/Wedjat98/SimpleHexCalculator/releases/tag/Alpha).
 
-I also did some ComputerVesion projects like **[Face Detection](https://github.com/Wedjat98/Face-Detection),[Hand Detection](https://github.com/Wedjat98/HandDetect),[Body Detecion](https://github.com/Wedjat98/BodyTrack)** base on google mediapipe and openCV.
+I also did some ComputerVision projects like **[Face Detection](https://github.com/Wedjat98/Face-Detection),[Hand Detection](https://github.com/Wedjat98/HandDetect),[Body Detecion](https://github.com/Wedjat98/BodyTrack)** base on google mediapipe and openCV.
 
 And I have great intrest in Embedded Development. I did some **[Arduino Projects](https://github.com/Wedjat98/Arduino-Backup) and [verilog Development](https://github.com/Wedjat98/FPGA-VerilogLearning).** I have done a personal using IoT system By Esp8266,Arduino and raspberryPI4.
 
