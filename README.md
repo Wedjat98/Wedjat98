@@ -5,7 +5,7 @@
 
 **🌱Trying to be an Embedded Hardware,Frontend,Backend,AI and IoT Fullstack Engineer⭐!!!** 
 
-## My Main Projects (Present/Past)
+## My Main Projects (Past,Some is removed)
 
 **Login-Register application** -A Login-Register application by **[Java MVC Version](https://github.com/Wedjat98/Login-Register-JavaVersion) and [Vue NodeJs Version](https://github.com/Wedjat98/Login-RegisterAPP),and a Qt login window design is [here](https://github.com/Wedjat98/loginWindowUI).**
 
